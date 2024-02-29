@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+}
+.main{
+    background-color: rgb(1, 8, 8);
+    align-items: center;
+    height:420px;
+    width: 320PX;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50);
+}
+.sample{
+    text-align: center;
+    width: 50vh;
+    margin-bottom: 5vh;
+}
+
+.sample input[type="text"],.sample input[type="email"],.sample input[type="password"]{
+padding: 10px;
+width: 100vh;
+border: 2px solid rgb(12, 14, 12);
+border-radius: 20px;
+}

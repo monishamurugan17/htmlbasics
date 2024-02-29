@@ -1,0 +1,31 @@
+body{
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    height: 100vh;
+}
+img{
+    height: 59vh;
+    width: 200;
+}vh
+h1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-weight: 100vh;
+    font-family: cursive;
+    font-style: italic;
+    
+
+}
+
+audio{
+    background-color: black;
+    display: flow-root;
+    height: 7vh;
+    width: 100vh;
+
+}
+h4{
+    align-content: center;
+}

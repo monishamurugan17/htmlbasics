@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+table{
+    
+    border-radius: 30vh;
+    height: 50vh;
+    width: 50vh;
+    
+    
+}
+table ,th , td{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+td{
+    background-color: rgb(59, 104, 117);
+}

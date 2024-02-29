@@ -1,0 +1,55 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(246, 250, 249);
+
+}
+h1{
+    text-align: center;
+    color: rgb(14, 7, 7);
+    text-shadow: 2px 2px 4px black;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    transform: translate(-50,-50%);
+    background-color: #e7dbdb;
+    border-radius: 20px;
+    border: 2px solid #0f0f0f;
+    
+}
+.card{
+    padding: 60px 40px 50px 40px;
+    background-color: black(50,50,50);
+    border-radius: 10px;
+}
+#name{
+    width: 200px;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid hsl(0, 4%, 10%);
+    padding: 6px;
+    margin-bottom: 25px;
+
+    
+}
+#button{
+    align-content: center;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: aqua;
+    color: white;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    margin-left: 50px;
+    
+
+}
+a{
+
+}
